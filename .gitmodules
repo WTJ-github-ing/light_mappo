@@ -1,0 +1,3 @@
+[submodule "third_party/multi_car_racing"]
+	path = third_party/multi_car_racing
+	url = https://github.com/igilitschenski/multi_car_racing.git
